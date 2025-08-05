@@ -64,8 +64,8 @@ This is a basic C++ project for a **Hotel Management System** that allows custom
 ## 👩‍💻 Developed By
 
 **Ayesha Murtaza**  
-Student of Software Engineering  
-Project Manager at Techverx
+ Software Engineer
+
 
 ---
 
